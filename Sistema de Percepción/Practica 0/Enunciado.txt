@@ -1,0 +1,6 @@
+1- Leer una imagen a color, convertirla a escala de gris y mostrar su histograma.
+2- Mostrar en un subplot:
+	a) la imagen original.
+	b) Su imagen umbralizada a dos tonos (umbral 100).
+	c) Imagen con mitad de resolución.
+	d) Imagen central de la mitad de tamaño.
