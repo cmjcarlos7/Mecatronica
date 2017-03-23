@@ -1,0 +1,3 @@
+Hacer una funcion que acepte como entrada el nombre del archivo de una imagen y la muestre por pantalla:
+1- Introduciendo ruido Gaussiano, suavice la imagen con filtros Gaussiano (sigma = 0.5), Mediana, y Media (3x3). Mostrar las cuatro imagenes en una misma figura con subplot.
+2- Repetirlo con ruido salt & pepper.
