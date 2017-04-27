@@ -1,0 +1,7 @@
+1.	Implementar un programa que elimine la perspectiva de un plano dentro de una imagen. Para ello, el programa tiene que:
+a)	Permitir seleccionar cuatro puntos de un plano en una imagen  (las cuatro esquinas de una mesa, por ejemplo).
+b)	Calcular la homografía existente entre las esquinas seleccionadas y las esquinas de un rectángulo real  (visto perpendicularmente). Se empleará la función “homografía2D.m” dada, que implementa el método DLT explicado en clase.
+c)	Aplicar la transformación calculada a la imagen y comprobar que se ha eliminado la perspectiva de dicho plano.
+2.	Colocar una imagen (rectangular) sobre el plano original para hacer realidad aumentada:
+a)	Aplicar la transformación inversa a la imagen seleccionada.
+b)	Situarla sobre la imagen original. 
